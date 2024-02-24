@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Evaluación\Evaluación\bin\Debug\Evaluación.exe.config
+C:\Users\HP\source\repos\Evaluación\Evaluación\bin\Debug\Evaluación.exe
+C:\Users\HP\source\repos\Evaluación\Evaluación\bin\Debug\Evaluación.pdb
+C:\Users\HP\source\repos\Evaluación\Evaluación\obj\Debug\Evaluación.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Evaluación\Evaluación\obj\Debug\Evaluación.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Evaluación\Evaluación\obj\Debug\Evaluación.exe
+C:\Users\HP\source\repos\Evaluación\Evaluación\obj\Debug\Evaluación.pdb
